@@ -1,6 +1,19 @@
 {
 	"game": {
-		"name": "未知游戏",
-		"appid": "UNKNOW"
-	}
+		"name": "qingwa_lvxing",
+		"appid": "665525001",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "665525001",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false
+				}
+			]
+		}
+	]
 }
